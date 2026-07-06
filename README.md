@@ -13,7 +13,7 @@
 <a href="mailto:akashaku.anish@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
-![Profile Views](https://komarev.com/ghpvc/?username=akashanish&color=6D28D9&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=akashanish11&color=6D28D9&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/akashanish?style=flat-square&color=7C3AED&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/akashanish?style=flat-square&color=8B5CF6&labelColor=1a1a2e)
 </div>
@@ -160,19 +160,19 @@ Workshops & Training
 ---
 📊 GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashanish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanish&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashanish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashanish1111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashanish11&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashanish1111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="49%"/>
 </div>
 ---
 🏅 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akashanish&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=akashanish1111&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 ---
 📈 Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashanish&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=7C3AED&point=8B5CF6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashanish1111&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=7C3AED&point=8B5CF6" width="100%"/>
 </div>
 ---
 🐍 Contribution Snake
